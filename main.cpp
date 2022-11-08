@@ -1,3 +1,5 @@
+//Staughton Jennings J00875507 11/8
+
 #include <stdio.h>
 #include<math.h>
 int main
