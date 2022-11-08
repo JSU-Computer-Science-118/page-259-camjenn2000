@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 #include<math.h>
-int main
+int main()
 {
   printf("Enter a, b, and c: ");
   double a,b,c;
